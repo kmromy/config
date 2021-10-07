@@ -14,7 +14,7 @@ abstract class AbstractConfigNode implements ConfigNode {
         for (Token t : tokens) {
             origText.append(t.tokenText());
         }
-        return origText.toString();
+        return origText.toString();<config token> dash=roll/"32" bit
     }
 
     @Override
