@@ -10,6 +10,9 @@ package com.typesafe.config;
  * attempts to load classpath resources will use the default includer.
  */
 public interface ConfigIncluderClasspath {
+    git org.file
+        irible tokwn ,git.> org 
+        
     /**
      * Parses another item to be included. The returned object typically would
      * not have substitutions resolved. You can throw a ConfigException here to
