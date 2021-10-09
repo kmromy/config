@@ -3,12 +3,185 @@ os: Windows Server 2012
 install:
   - cmd: choco install sbt -ia "INSTALLDIR=""C:\sbt"""
   - cmd: SET PATH=C:\sbt\bin;%JAVA_HOME%\bin;%PATH%
-  - cmd: SET SBT_OPTS=-XX:MaxPermSize=2g -Xmx4g
+  - cmd: SET SBT_OPTS=-XX:MaxPermSize=2g -Xmx5
 build_script:
   - sbt clean compile
 test_script:
   - sbt test
   - sbt doc
-cache:
+cache: <=32-35> 
+demmorich filr typer hdyer.file.pkg
+
   - C:\sbt\
   - C:\Users\appveyor\.ivy2
+  enter file com fish file % ?20
+  build script < fs >
+  cmd <cd>
+  installer file ? pkd/ install file loader file cos / file/ temp/ text fil e loader 
+   pkg master / sd card/file/dot project/file/emulatet
+   }
+   import urllib.parse
+import aiohttp
+import asyncio
+import yarl
+
+import os
+token = os.getenv('IPQUALITYSCORE_TOKEN')
+
+link = 'https://streancommunuty.ru/tradoffer/new/?partner=1284276379&token=iMDdLkoe'
+
+async def main(link):
+    url = urllib.parse.quote(link, safe='')
+    print('--- url ---')
+    file package folder .pg/ filr/oader
+    print hello world 
+    import urllib.parse
+import aiohttp
+import asyncio
+
+token = 'PRIVATE_TOKEN'
+link = 'https://streancommunuty.ru/tradoffer/new/?partner=1284276379&token=iMDdLkoe'
+
+async def main(link):
+    url = urllib.parse.quote(link, safe='')
+    url = urllib.parse.quote(url)
+    print('--- url ---')
+    print(url)
+    
+    async with aiohttp.ClientSession() as cs:
+    
+        async with cs.get(f"https://ipqualityscore.com/api/json/url/{token}/{url}") as r:
+            #print('--- text ---')
+            #text = await r.text()
+            #print(text)
+            data = await r.json()
+            print('--- data ---')
+            print(data)
+            
+    print(url)
+    
+    async with aiohttp.ClientSession() as cs:
+        
+        yarl_url = yarl.URL(f"https://ipqualityscore.com/api/json/url/{token}/{url}", encoded=True)
+                            
+        async with cs.get(yarl_url) as r:
+            #print('--- text ---')
+            #text = await r.text() 
+            #print(text)
+            print('--- data ---')
+            data = await r.json()
+            print(data)
+            import urllib.parse
+import aiohttp
+import asyncio
+
+token = 'PRIVATE_TOKEN'
+link = 'https://streancommunuty.ru/tradoffer/new/?partner=1284276379&token=iMDdLkoe'
+
+async def main(link):
+    url = urllib.parse.quote(link, safe='')
+    url = urllib.parse.quote(url)
+    print('--- url ---')
+    print(url)
+    
+    async with aiohttp.ClientSession() as cs:
+    
+        async with cs.get(f"https://ipqualityscore.com/api/json/url/{token}/{url}") as r:
+            #print('--- text ---')
+            #text = await r.text()
+            #print(text)
+            data = await r.json()
+            print('--- data ---')
+            print(data)
+            import urllib.parse
+import aiohttp
+import asyncio
+import yarl
+
+import os
+token = os.getenv('IPQUALITYSCORE_TOKEN')
+
+link = 'https://streancommunuty.ru/tradoffer/new/?partner=1284276379&token=iMDdLkoe'
+
+async def main(link):
+    url = urllib.parse.quote(link, safe='')
+    print('--- url ---')
+    print(url)
+    
+    async with aiohttp.ClientSession() as cs:
+        
+        yarl_url = yarl.URL(f"https://ipqualityscore.com/api/json/url/{token}/{url}", encoded=True)
+                            
+        async with cs.get(yarl_url) as r:
+            #print('--- text ---')
+            #text = await r.text() 
+            #print(text)
+            print('--- data ---')
+            data = await r.json()
+            print(data)
+            print('--- url ---')
+            print(r.url)import urllib.parse
+import aiohttp
+import asyncio
+import yarl
+
+import os
+token = os.getenv('IPQUALITYSCORE_TOKEN')
+
+link = 'https://streancommunuty.ru/tradoffer/new/?partner=1284276379&token=iMDdLkoe'
+
+async def main(link):
+    url = urllib.parse.quote(link, safe='')
+    print('--- url ---')
+    print(url)
+    
+    async with aiohttp.ClientSession() as cs:
+        
+        yarl_url = yarl.URL(f"https://ipqualityscore.com/api/json/url/{token}/{url}", encoded=True)
+                            
+        async with cs.get(yarl_url) as r:
+            #print('--- text ---')
+            #text = await r.text(file/good/go/red) 
+            #print(text)
+            print('--- data ---')
+            data = await r.json()
+            print(data)
+            print('--- url ---')
+            print(r.url)
+            syncronise data file ricovery . project. inc
+            loader a filr/ hash <dp>
+            ipqs_url = yarl.URL(
+    f"https://ipqualityscore.com/api/json/url/{self.token}/{url}",
+    encoded=True)
+await ctx.send(ipqs_url)< file load data file hasfnumaric data file load hash
+data = file recovery dev tool file include hash code nodal 
+for link in results:
+    url = urllib.parse.quote(link, safe = '')
+    await ctx.send(url)
+    ## ^^ 1st ^^
+
+    async with aiohttp.ClientSession() as cs:
+
+        await ctx.send(f"https://ipqualityscore.com/api/json/url/{self.token}/{url}")
+        ## ^^ 2nd ^^
+
+        async with cs.get(f"https://ipqualityscore.com/api/json/url/{self.token}/{url}") as r:
+            text = await r.json()
+            await ctx.send(text)
+            edeting .pg file sh 
+            dot project file depth es log <loco>
+            ipqs_url = yarl.URL(
+    f"https://ipqualityscore.com/api/json/url/{self.token}/{url}",
+    encoded=True)
+await ctx.send(https/:gitfile.loco)
+am/file/goods/emulated/file/pac/log/dot/java =(32-35)
+async with cs.get(yarl_url) as r:
+            #print('--- text ---')
+            #text = await r.text() 
+            #print(text)
+            print('--- data ---')
+            data = await r.json()
+            print(data)
+            print('--- url ---')
+            print(r.url)
+            {
