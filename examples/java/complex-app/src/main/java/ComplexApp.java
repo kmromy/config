@@ -27,7 +27,7 @@ class ComplexApp {
 
         // "config1" is just an example of using a file other than
         // application.conf
-        Config config1 = ConfigFactory.load("complex1");
+        Config config1 = ConfigFactory.load("complex app");
 
         // use the config ourselves
         System.out.println("config1, complex-app.something="
